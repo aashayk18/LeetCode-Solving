@@ -6,4 +6,5 @@ Convert input to string, reverse it by slicing and compare.
 
 # Complexity
 Time complexity:
+
 Space complexity:
