@@ -1,7 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
         if (nums.length == 0) return 0;
-        int n = nums.length;
         int prev1 = 0;
         int prev2 = 0;
         for (int num : nums) {
