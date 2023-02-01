@@ -22,7 +22,7 @@ Let us perform the binary 'AND' operation on these two numbers.
 
 1000            
 0111 ---------> Since all of the bits complement each other, we get the result as '0000'.
-----
+_____
 0000 ---------> This equates to decimal 0.
 
 This can be observed with any such number that is a power of two, so we accept it as a condition for our expression.
