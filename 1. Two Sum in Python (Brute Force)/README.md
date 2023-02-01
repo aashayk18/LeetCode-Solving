@@ -6,7 +6,7 @@ Brute Force approach to run "nested for loops", check sum against the target.
 
 # Complexity
 Time complexity:
-O(n^2)
+$O(n^2)$
 
 Space complexity:
-O(1)
+$O(1)$
