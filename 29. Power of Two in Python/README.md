@@ -13,7 +13,7 @@ All the numbers that are a power of two will have only one, '1' bit and rest '0'
 
 Let us understand with the help of an example.
 
-- n = 8
+n = 8
 
 Here, the binary representation of n is given by '1000'.
 Similarly, the binary representation of n-1 is given by '0111'.
@@ -21,8 +21,8 @@ Similarly, the binary representation of n-1 is given by '0111'.
 Let us perform the binary 'AND' operation on these two numbers.
 
 1000            
-0111            ---------> Since all of the bits complement each other, we get the result as '0000'.
--_-_-_-_-_-_
+0111 ---------> Since all of the bits complement each other, we get the result as '0000'.
+----
 0000 ---------> This equates to decimal 0.
 
 This can be observed with any such number that is a power of two, so we accept it as a condition for our expression.
